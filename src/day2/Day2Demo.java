@@ -23,4 +23,5 @@ public class Day2Demo {
 	
 	*/
 
+	String school = "abc";
 }
